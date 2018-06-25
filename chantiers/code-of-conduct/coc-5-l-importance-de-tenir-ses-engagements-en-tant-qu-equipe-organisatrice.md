@@ -29,8 +29,8 @@ Mettre en place un CoC n'est pertinent que si l'équipe d'organisation s'est pr�
 - Comment on communique entre nous autour de ça tout en restant zen et discret·e·s ?
 - Comment faire pour que si ça arrive, cela n'impacte pas "trop" l'évènement ?
 
-## Une équipe mixte pour prendre en charge le CoC 
-Sauf s'il s'agit d'un évènement/rencontre non mixte, il paraît pertinent que le CoC soit accompagnée par à minima une femme et un homme pour : 
+## Une équipe de personnes qui représentent différents vécus et différentes sensibilités pour prendre en charge le CoC 
+Il paraît pertinent que le CoC soit accompagné par au moins deux personnes qui représentent différents vécus et différentes sensibilités.  
 - laisser le choix aux participant·e·s d'aller vers la personne/le genre/la sensibilité... avec lequel il·elle se sent plus à l'aise  
 - éviter les conflits d'intérêt. Si une personne en charge du CoC est impliquée dans un problème d'oppression il faut qu'il y en ait une autre pour prendre soin
 
