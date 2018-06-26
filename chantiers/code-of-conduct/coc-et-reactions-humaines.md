@@ -13,8 +13,8 @@ Suite à la mise en place du premier [Code of Conduct de SudWeb](https://sudweb.
 - Interdire les avances, le flirt, la drague : En quoi un flirt bilatéral pouvant amener à une belle histoire (ou pas) serait proscrit ?.
 - L'interdiction appel la transgression : "J’ai l’impression de m’adresser à ma fille quand je lui dis « ne t’habille pas, c’est interdit » pour qu’elle fasse le contraire."
 - Trop centré sur le négatif : "Je pense que ce code est construit sur la base de problèmes et non de solutions."
-- Risque de la prophétie auto-réalisatrice : https://fr.wikipedia.org/wiki/Proph%C3%A9tie_autor%C3%A9alisatrice. "Le soucis c’est qu’en faisant ça tu crées un groupe qui va se comporter comme tel et donc ça risque d’avoir l’effet inverse à celui recherché."
-- Pourquoi ne pas s'en référer à la loi plutôt que de le faire gérer par des bénévoles inexpérimentés ? : https://larlet.fr/david/stream/2018/01/12/ 
+- Risque de la prophétie auto-réalisatrice : <https://fr.wikipedia.org/wiki/Proph%C3%A9tie_autor%C3%A9alisatrice>. "Le soucis c’est qu’en faisant ça tu crées un groupe qui va se comporter comme tel et donc ça risque d’avoir l’effet inverse à celui recherché."
+- Pourquoi ne pas s'en référer à la loi plutôt que de le faire gérer par des bénévoles inexpérimentés ? : <https://larlet.fr/david/stream/2018/01/12/> 
 - Est-ce qu'on réinvente pas la roue ? Des lois exsitent pour gérer ça.
 - Contre-productif dans la résolution des problèmes : "Tu peux te retrouver à ne PAS pouvoir sanctionner quelqu’un parce qu’il te demande de lui trouver dans le CoC où ce qu’il a fait est condamné…"
 
@@ -23,7 +23,7 @@ Suite à la mise en place du premier [Code of Conduct de SudWeb](https://sudweb.
 - Créer un cadre qui prend soin des personnes sous-représentées dans les communautés qui sont par principe plus sujettes à vivre des oppressions (une personne de couleur noire au milieu de participant·e·s blan·che·c·s, une femme parmi des hommes, des adolescent·e·s parmis des adultes...)
 - Permet de rendre explicite ce qui devient implicite quand le cadre est bienveillant "de nature". CoC = bon véhicule en ce qui concerne tout·e nouveau·elle participant·e.
 - Principe de précaution "Malheureusement, ce n’est pas parce que vous n’avez pas eu d’incidents signalés que vous n’en n’aurez pas ou que vous n’en n’avez pas déjà eu." Ash Dryen
-- Les situations oppressives en envent sont des faits : le CoC est une première réponse (pas forcément la meilleure) pour "faire quelque chose". Première alternative au statut quo (https://fr.wikipedia.org/wiki/Statu_quo).
+- Les situations oppressives en envent sont des faits : le CoC est une première réponse (pas forcément la meilleure) pour "faire quelque chose". Première alternative au statut quo (<https://fr.wikipedia.org/wiki/Statu_quo>).
 - La loi, la jurisprudence est-elle en mesure de saisir toutes les subtilités du vécu/ressenti d'une personne ? 
 - Les procédures juridiques sont très implicante, là ou parfois la stratégie de réparation peut-être très simple (procédure juridique disproportionnée par rapport au préjudice) --> le CoC permet une granularité et une prise en compte du subtil (ressenti, émotion, vécu).
 
