@@ -2,7 +2,7 @@
 
 # Me cadrer dans mes vidéos sans passer pour un clown
 
-*La bonne nouvelle c’est que (contrairement à la configuration audio — [lire l’article](https://julia-barbelane.github.io/reflexions/chantiers/quelle-fichue-configuration-audio-pour-mes-videos.html) il existe des solutions “pré-mâchées” pour faire en sorte que son cadrage (c’est à dire, là où je met dans les limites du viseur de ma caméra) soit à la fois simple et propre.*
+*La bonne nouvelle c’est que (contrairement à la configuration audio — [lire l’article](https://julia-barbelane.github.io/reflexions/chantiers/quelle-fichue-configuration-audio-pour-mes-videos.html))- il existe des solutions “pré-mâchées” pour faire en sorte que son cadrage (c’est à dire, là où je met dans les limites du viseur de ma caméra) soit à la fois simple et propre.*
 
 ![clown](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/me-cadrer-dans-mes-videos-sans-passer-pour-un-clown/clown.jpeg)
 
