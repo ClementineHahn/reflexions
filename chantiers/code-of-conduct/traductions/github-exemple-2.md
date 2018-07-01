@@ -1,30 +1,30 @@
 # Code de conduite
 
 ## Objet
-Un objectif principal de Katas est d'être inclusif au plus grand nombre de contributeurs, avec les milieux les plus variés et les plus divers possibles. En tant que tel, nous nous engageons à fournir un environnement amical, sûr et accueillant pour tous, indépendamment du sexe, de l'orientation sexuelle, de la capacité, de l'ethnicité, du statut socio-économique et de la religion (ou son absence).
+Un objectif principal de Katas est d'être inclusif au plus grand nombre de contribut·eur·rice·s, avec les milieux les plus variés et les plus divers possibles. En tant que tel, nous nous engageons à fournir un environnement amical, sûr et accueillant pour tou·te·s, indépendamment du sexe, de l'orientation sexuelle, de la capacité, de l'ethnicité, du statut socio-économique et de la religion (ou son absence).
 
-Ce code de conduite décrit nos attentes pour tous ceux qui participent à notre communauté, ainsi que les conséquences d'un comportement inacceptable.
+Ce code de conduite décrit nos attentes pour tou·te·s celles et ceux qui participent à notre communauté, ainsi que les conséquences d'un comportement inacceptable.
 
-Nous invitons tous ceux qui participent aux Katas à nous aider à créer des expériences sûres et positives pour tous.
+Nous invitons tou·te·s celles et ceux qui participent aux Katas à nous aider à créer des expériences sûres et positives pour tou·te·s.
 
 ## Citoyenneté Open Source
 
-Un objectif supplémentaire de ce code de conduite est d'augmenter la citoyenneté open source en encourageant les participants à reconnaître et à renforcer les relations entre nos actions et leurs effets sur notre communauté.
+Un objectif supplémentaire de ce code de conduite est d'augmenter la citoyenneté open source en encourageant les participant·e·s à reconnaître et à renforcer les relations entre nos actions et leurs effets sur notre communauté.
 
 Les communautés reflètent les sociétés dans lesquelles elles existent et l'action positive est essentielle pour contrer les nombreuses formes d'inégalité et d'abus de pouvoir qui existent dans la société.
 
-Si vous voyez quelqu'un qui fait un effort supplémentaire pour s'assurer que notre communauté est accueillante, amicale, et encourage tous les participants à contribuer dans toute la mesure du possible, nous voulons savoir.
+Si vous voyez quelqu'un·e qui fait un effort supplémentaire pour s'assurer que notre communauté soit accueillante, amicale, et qui encourage tou·te·s les participant·e·s à contribuer dans toute la mesure du possible, nous voulons savoir.
 
 ## Comportement attendu
 
-Les comportements suivants sont attendus et demandés à tous les membres de la communauté:
+Les comportements suivants sont attendus et demandés à tou·te·s les membres de la communauté :
 
 - Participez de manière authentique et active. Ce faisant, vous contribuez à la santé et à la longévité de cette communauté.
 - Exercez la considération et le respect dans votre discours et vos actions.
 - Tenter de collaborer avant le conflit.
 - S'abstenir de tout comportement humiliant, discriminatoire ou harcelant.
-- Soyez conscient de votre environnement et de vos collègues participants. Alertez les dirigeants de la communauté si vous remarquez une situation dangereuse, une personne en détresse ou des violations de ce code de conduite, même s'ils semblent sans conséquence.
-- N'oubliez pas que les lieux d'événements communautaires peuvent être partagés avec des membres du public; S'il vous plaît soyez respectueux envers tous les clients de ces lieux.
+- Soyez conscient·e de votre environnement et de vos collègues participant·e·s. Alertez les dirigeant·e·s de la communauté si vous remarquez une situation dangereuse, une personne en détresse ou des violations de ce code de conduite, même s'ils semblent sans conséquence.
+- N'oubliez pas que les lieux d'événements communautaires peuvent être partagés avec des membres du public; S'il vous plaît soyez respectueux envers tou·te·s les client·e·s de ces lieux.
 
 ## Comportement inacceptable
 
@@ -48,13 +48,13 @@ Les comportements inacceptables de la part de tout membre de la communauté, y c
 
 Toute personne à qui on demande d'arrêter un comportement inacceptable devrait se conformer immédiatement.
 
-Si un membre de la communauté adopte un comportement inacceptable, les organisateurs communautaires peuvent prendre toute mesure qu'ils jugent appropriée, y compris une interdiction temporaire ou une expulsion permanente de la communauté sans avertissement (et sans remboursement dans le cas d'un événement payant).
+Si un membre de la communauté adopte un comportement inacceptable, les organisat·eur·rice·s communautaires peuvent prendre toute mesure qu'ils jugent appropriée, y compris une interdiction temporaire ou une expulsion permanente de la communauté sans avertissement (et sans remboursement dans le cas d'un événement payant).
 
 ## Directives de déclaration
 
-Si vous êtes sujet ou êtes témoin d'un comportement inacceptable, ou avez d'autres préoccupations, veuillez en informer un organisateur communautaire dès que possible. 
+Si vous êtes sujet ou êtes témoin d'un comportement inacceptable, ou avez d'autres préoccupations, veuillez en informer un·e organisat·eur·rice communautaire dès que possible. 
 
-De plus, des organisateurs communautaires sont disponibles pour aider les membres de la communauté à s'engager avec les forces de l'ordre locales ou pour aider ceux qui ont un comportement inacceptable à se sentir en sécurité. Dans le contexte des événements en personne, les organisateurs fourniront également des escortes à la demande de la personne en détresse.
+De plus, des organisat·eur·rice·s communautaires sont disponibles pour aider les membres de la communauté à s'engager avec les forces de l'ordre locales ou pour aider celles et ceux qui ont un comportement inacceptable à se sentir en sécurité. Dans le contexte des événements en personne, les organisat·eur·reice·s fourniront également des escortes à la demande de la personne en détresse.
 
 ## Traiter les griefs
 
@@ -62,7 +62,7 @@ Si vous pensez avoir été accusé à tort ou injustement d'avoir enfreint ce co
 
 ## Champ d'application
 
-Nous attendons de tous les participants de la communauté (contributeurs, payés ou non, commanditaires et autres invités) qu'ils respectent ce code de conduite dans tous les lieux communautaires - en ligne et en personne - ainsi que dans toutes les communications individuelles concernant la communauté. Entreprise.
+Nous attendons de tou·te·s les participant·e·s de la communauté (contribut·eur·rice·s, payé·e·s ou non, commanditaires et autres invité·e·s) qu'ils·elles respectent ce code de conduite dans tous les lieux communautaires - en ligne et en personne - ainsi que dans toutes les communications individuelles concernant la communauté.
 
 Ce code de conduite et les procédures qui s'y rapportent s'appliquent également aux comportements inacceptables se produisant en dehors du cadre des activités communautaires lorsque ces comportements peuvent nuire à la sécurité et au bien-être des membres de la communauté.
 
