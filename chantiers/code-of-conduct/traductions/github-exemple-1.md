@@ -1,4 +1,4 @@
-# Code de conduite de contributeur
+# Code de conduite du·de la contribut·eur·rice
 
 ## Notre engagement
 Afin de favoriser un environnement ouvert et accueillant, nous, contribut·eur·rice·s et responsables, nous engageons à faire de la participation à notre projet et à notre communauté une expérience sans harcèlement pour tou·te·s, indépendamment de l'âge, de la taille, du handicap, de l'ethnicité, de l'identité sexuelle et de l'expression, du niveau d'expérience, de la nationalité, de l'apparence physique, de la race, de la religion, de l'identité et de l'orientation sexuelle.
