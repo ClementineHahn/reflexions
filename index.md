@@ -25,7 +25,6 @@ title : ""
 ### Interactions
 [Créer un contexte de collaboration Safe](chantiers/creer-un-cadre-de-collaboration-safe.md)  
 [La théorie de l'angle-mort selon David Bruant](chantiers/la-theorie-de-l-angle-mort.md)  
-[De l'amour pour gérer les crises ?](chantiers/de-lamour-pour-gerer-la-crise.md)  
 
 
 ### Apprentissage
