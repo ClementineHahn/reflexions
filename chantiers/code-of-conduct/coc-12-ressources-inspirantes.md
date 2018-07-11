@@ -13,6 +13,7 @@
 - [Charte Blend Web Mix 2018](https://www.blendwebmix.com/wp-content/uploads/2018/03/charte-speakers-blend-2018.pdf)  
 - [Code of Conduct de 18F (USA)](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md)  
 - [confcodeofconduct.com](http://confcodeofconduct.com/)
+- [FFS Tech Conférence](https://docs.google.com/document/d/e/2PACX-1vSiqCZpBdx028N3rQ7QO1LfQGGp31IEPVQjXKSuAdBd2CXPV8YQtd2Mm2Fwc6iQLQQLzVffijI25Pfg/pub)
 
 
 [Ici](https://github.com/Rookie-Club/katas/community), Github propose des trucs à faire pour bien fonctionner avec les contribut·eur·rice·s d'un répertoire. Dans le tas, il propose notamment de créer un Code of Conduct. On y trouve : 
