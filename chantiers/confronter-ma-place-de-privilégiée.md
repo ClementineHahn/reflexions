@@ -28,9 +28,9 @@ Qui dit privilégiée dit aussi potentiellement oppresseuse de celeux qui ne le 
 Que faire pour pallier à ça ? 
 
 ## Le parallèle avec le fait d'être une femme
+A priori le fait que je sois une femme est une des rares "variables" qui fait de moi quelqu'une d'un peu moins privilégiée. 
 
 **Tu généralises, tous les hommes ne sont pas comme ça**  
-A priori le fait que je sois une femme est une des rares "variables" qui fait de moi quelqu'une d'un peu moins privilégiée. 
 
 Or, j'observe que dans la plupart des cas où je parle de leur statut privilégié aux hommes (pas de stress dans les transports, en commun, force physique, pas de harcèlement sexuel, plus écouté dans une audience...) la plupart du temps je dois faire face à cette réponde quasi-systématique : 
 
@@ -38,9 +38,9 @@ Or, j'observe que dans la plupart des cas où je parle de leur statut privilégi
 
 **Mais en fait le problème est plus grand que toi**  
 
-> *Mais en fait il ne s'agit pas de toi. Il s'agit d'un problème social qui créé beaucoup de souffrance et de violence. Je en parle pas de toi.*
+> *Mais en fait il ne s'agit pas de toi. Il s'agit d'un problème social auquel tu/on participe même sans le vouloit. Je en parle pas de toi.*
 
-Quand j'entend ce type de réponse je ne me sens pas écoutée. Je vis quelque chose qui sonne comme "*J'ai des privilèges, ne vient pas les remttre en question. Je fais beaucoup d'efforts moi ! Je ne te permet pas !*".
+Quand j'entends ce type de réponse j'entends un truc qui sonne comme "*Ne touche pas à mes privilèges. J'ai un coeur moi et je fais beaucoup d'efforts.*". 
 
 Pourquoi ne pas déségo-centrer le débat, prendre le temps d'accueillir ton statut de privilégié et tenter de faire preuve d'un peu plus d'humilité pendant cette discussion ? 
 
