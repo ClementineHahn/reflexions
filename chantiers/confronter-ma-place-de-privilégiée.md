@@ -38,7 +38,7 @@ Or, j'observe que dans la plupart des cas où je parle de leur statut privilégi
 
 **Mais en fait le problème est plus grand que toi**  
 
-*Mais en fait il ne s'agit pas de toi. Il s'agit d'un problème social qui créé beaucoup de souffrance et de violence. Je en parle pas de toi.*
+> *Mais en fait il ne s'agit pas de toi. Il s'agit d'un problème social qui créé beaucoup de souffrance et de violence. Je en parle pas de toi.*
 
 Quand j'entend ce type de réponse je ne me sens pas écoutée. Je vis quelque chose qui sonne comme "*J'ai des privilèges, ne vient pas les remttre en question. Je fais beaucoup d'efforts moi ! Je ne te permet pas !*".
 
