@@ -28,23 +28,9 @@ Qui dit privilégiée dit aussi potentiellement oppresseuse de celeux qui ne le 
 Que faire pour pallier à ça ? 
 
 ## Le parallèle avec le fait d'être une femme
-A priori le fait que je sois une femme est une des rares "variables" qui fait de moi quelqu'une d'un peu moins privilégiée. 
-
-**Tu généralises, tous les hommes ne sont pas comme ça**  
-
-Or, j'observe que dans la plupart des cas où je parle de leur statut privilégié aux hommes (pas de stress dans les transports, en commun, force physique, pas de harcèlement sexuel, plus écouté dans une audience...) la plupart du temps je dois faire face à cette réponde quasi-systématique : 
-
-> "*Tu généralise. Tous les hommes ne sont pas comme ça. Je ne suis pas comme ça.*"
-
-**Mais en fait le problème est plus grand que toi**  
-
-> *Mais en fait il ne s'agit pas de toi. Il s'agit d'un problème social auquel tu/on participe même sans le vouloit. Je en parle pas de toi.*
-
-Quand j'entends ce type de réponse j'entends un truc qui sonne comme "*Ne touche pas à mes privilèges. J'ai un coeur moi et je fais beaucoup d'efforts.*". 
-
-Pourquoi ne pas déségo-centrer le débat, prendre le temps d'accueillir ton statut de privilégié et tenter de faire preuve d'un peu plus d'humilité pendant cette discussion ? 
-
-C'est ce que j'adorerai qui se passe quand j'échange avec un homme sur la question du féminisme. 
+A priori le fait que je sois une femme est une des rares "variables" qui fait de moi quelqu'une d'un peu moins privilégiée.   
+La bonne nouvelle avec ça c'est que je sais ce que ça fait. C'est plus facile d'être en empathie avec celeux qui sont situé·e·s plus bas dans la pyramide...
+Aussi je m'appuie sur cette expérience pour réfléchir à comment intéragir/me positionner...
 
 ## Tenter le pari de l'humilité pour rabaisser ma posture
 
@@ -56,6 +42,6 @@ Résultats après ces prémices de réflexions, j'ai décidé de :
 - lire et regarder les témoignages de ces personnes pour à minima entendre ce qu'elles ont a me dire et à maxima comprendre et agir
 
 
-
+## L'exemple : ce qui a changé depuis que je suis la chaîne YouTube
 
 
