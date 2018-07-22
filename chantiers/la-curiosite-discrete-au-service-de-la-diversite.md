@@ -5,7 +5,7 @@
 
 ## Avant-propos - l'autre n'est pas là pour m'éduquer
 
-Margot créatrice de la chaîne Youtube [Vivre Avec](https://www.youtube.com/channel/UCH3Hp3WAm0iGQBi_csusoUg) a récemment très bien expliqué cette idée. 
+Margot créatrice de la chaîne Youtube [Vivre Avec](https://www.youtube.com/channel/UCH3Hp3WAm0iGQBi_csusoUg) a récemment très bien expliqué cette idée.
 
 Elle a partagé un tweet qui disait : 
 
@@ -17,18 +17,23 @@ Et elle a ajouté :
 
 ## Importuner l'inconnu : l'exemple avec la transidentité
 
-Je ne connais pour ainsi dire pas de personnes transgenres. J'ajouterai aussi que j'en croise rarement. Mais lorsque j'en croise, systématiquement je me sens curieuse. Je suis intiguée. 
+Je ne connais pour ainsi dire pas de personnes transgenres. J'ajouterais aussi que j'en croise rarement. Mais lorsque j'en croise, systématiquement je me sens curieuse. Je suis intiguée. 
 
 Trop peu de diversité dans mon entourage fait que la différence est marquante quand elle se présente. 
 
 Et autant je suis OK avec le sentiment de curiosité, autant ce qu'il a tendance à m'inciter à faire m'exaspère : poser des questions, regarder de façon insistante, dévisager, sourir, me crisper...
 
+Imaginez que ce constat s'opère aussi pour les personnes handicapées, queer, homoparentales...
 
 ## Du contenu généreux et consenti
 
-En creusant un peu sur internet, j'ai découvert que de nombreuses personnes "minorisées" produisaient chaque jour, du contenu généreux et consenti dans lequel elles racontent gracieusement qui elles sont et ce qu'elles vivent.  Grâce à elles, je peux désormais nourrir ma curiosité discrètement, sans importuner personne.
+En creusant un peu sur internet, j'ai découvert que de nombreuses personnes "minorisées" produisaient chaque jour, du contenu généreux et consenti dans lequel elles racontent gracieusement qui elles sont et ce qu'elles vivent.  
 
-## Un nouveau regard sur le monde
+> "Je m'appelle Margot et je suis atteinte d'une maladie du tissu conjonctif, le syndrome d'Ehlers Danlos. Ces vidéos me permettent de parler de mon quotidien, dédramatiser la maladie et ouvrir les gens à la différence." (extrait de la présentation de la chaîne Youtube de Margot)
+
+Grâce à elles, je peux désormais à la fois nourrir ma curiosité (discrètement et sans importuner personne) et me relier à pluralité des individus.
+
+## Toucher du doigt la diversité
 
 Leur travail m'apporte beaucoup plus que des réponses à mes questions. 
 
