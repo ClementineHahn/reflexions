@@ -28,6 +28,7 @@ title : ""
 
 ### Privilèges
 [Confronter mon statut de privilégiée](chantiers/confronter-ma-place-de-privilegiee.md)
+[Parler de sexisme avec un homme](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/parler-de-sexisme-avec-un-homme.md)
 
 ### Apprentissage
 [Etre précis·e·s dans l'utilisation de nouveaux outils](chantiers/etre-precis-dans-l-utilisation-de-nos-outils-collaboratifs.md)  
