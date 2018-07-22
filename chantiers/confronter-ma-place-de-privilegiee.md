@@ -1,5 +1,5 @@
 # Comment j'ai décidé de confronter mon statut de privilégiée
-![butternut](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/confronter-ma-place-de-privilegie.png)
+![vue sur la ville](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/confronter-mon-statut-de-privilegiee.png)
 
 ## Marre de l'entre-soi
 J'ai récemment pris conscience que j'évolue beaucoup avec des personnes qui me ressemblent. A savoir des personnes :
