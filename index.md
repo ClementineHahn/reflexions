@@ -27,7 +27,7 @@ title : ""
 [La théorie de l'angle-mort selon David Bruant](chantiers/la-theorie-de-l-angle-mort.md)  
 
 ### Privilèges
-[Confronter mon statut de privilégiée](chantiers/confronter-ma-place-de-privil%C3%A9gi%C3%A9e.md)
+[Confronter mon statut de privilégiée](chantiers/confronter-ma-place-de-privilegiee.md)
 
 ### Apprentissage
 [Etre précis·e·s dans l'utilisation de nouveaux outils](chantiers/etre-precis-dans-l-utilisation-de-nos-outils-collaboratifs.md)  
