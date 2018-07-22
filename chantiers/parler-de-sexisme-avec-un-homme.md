@@ -1,7 +1,6 @@
-# Parler de seximse avec des hommes ce n'est pas une mince affaire ! 
+# Parler de sexisme avec un homme... 
 
-
-## C'est difficile pour moi de parler du sexisme avec des hommes
+## C'est difficile 
 
 J'observe que dans la plupart des temps, lorsque je raconte à un homme les expériences oppressives que je vis en tant que femme (ou que d'autres femmes me partagent), l'échange est compliqué, grinçant. 
 
@@ -9,10 +8,10 @@ Souvent, j'ai peu d'écoute et je reçois peu d'empthie. Très vite, la discussi
 
 *"Tu généralises. Tous les hommes ne sont pas comme ça. Je ne suis pas comme ça."*  
 *"Les hommes aussi vivent de l'oppression, qu'est-ce que tu crois... Le dictat de la masculinité on en parle ?"*  
-*"Ca ne me plaît pas que tu dises ça, moi je fais beaucoup d'effort, je ne suis pas comme ça"*  
+*"Ca ne me plaît pas que tu dises ça, moi je fais beaucoup d'effort, je suis féministe moi !"*  
 ect...
 
-C'est comme si il m'était quasiment impossible de partager mes expériences et mes opinions qui en découlent sans que mon interlocuteur, ne le prenne contre lui. 
+C'est comme s'il m'était quasiment impossible de partager mes expériences et mes opinions qui en découlent sans que mon interlocuteur, ne le prenne contre lui. 
 
 ## Ce qui se passe pour moi
 
@@ -52,9 +51,12 @@ Au mieux, ils me posaient des questions telles que "*Comment tu t'es senti ?*", 
 
 ## A vous mesdames !
 
-Je serais heureuse que ce billet puisse donner l'élan aux autres femmes qui le croiserait sur leur route, de partager aussi leurs ressentis et leurs expériences. Je suppose que ça permettrait à la fois d'expliquer à ceux que ça intéresse, ce qui se passe pour nous avec ces questions là, présenter des stratégies de gestion du dialogue à d'autres femmes, de créer un nouvel espace dans lequel on peut poser ce qu'on se retient parfois de dire, ou encore proposer à ceux qui souhaitent nous écouter mieux quelques pistes...
+Je serais heureuse que ce billet puisse donner l'élan à d'autres femmes qui le croiseraient, de partager aussi leurs ressentis et leurs expériences. 
 
-Aussi n'hésitez pas à me faire signe, ça me fera plaisir de vous lire : julia.barbelane@gmail.com
+Je suppose que ça permettrait à la fois d'expliquer, à ceux que ça intéresse, ce qui se passe pour nous avec ces questions là, présenter des stratégies de gestion du dialogue à d'autres femmes, de créer un nouvel espace dans lequel on peut poser ce qu'on se retient parfois de dire, ou encore proposer quelques piste à ceux qui souhaitent mieux nous écouter...
+
+Aussi n'hésitez pas à me faire signe, ça me fera plaisir de vous lire !  
+julia.barbelane@gmail.com
 
 
 
