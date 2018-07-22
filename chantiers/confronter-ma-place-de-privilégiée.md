@@ -35,13 +35,9 @@ Aussi je m'appuie sur cette expérience pour réfléchir à comment intéragir/m
 ## Tenter le pari de l'humilité pour rabaisser ma posture
 
 Résultats après ces prémices de réflexions, j'ai décidé de :
-- me taire et écouter quand j'échange avec celeux qui ne sont pas, comme moi en haut de la pyramide
+- me taire et écouter quand j'échange avec celeux qui ne sont pas, comme moi "en haut de la pyramide"
 - faire taire cette première petite voix qui souvent me crie "*Non mais n'importe quoi, je suis pas comme ça moi, ille généralise*" 
 - observer mes propres préjugés (jugements, regards, pensées...)
-- suivre des comptes Twitter de personnes trans, homo, handicapées... pour que la diversité intègre petit à petit mon quotidien et ne soit plus quelques chose de surprenant
-- lire et regarder les témoignages de ces personnes pour à minima entendre ce qu'elles ont a me dire et à maxima comprendre et agir
-
-
-## L'exemple : ce qui a changé depuis que je suis la chaîne YouTube
+- suivre des comptes Twitter de personnes trans, homo, handicapées... pour que la diversité intègre petit à petit mon quotidien et entendre ce qu'elles ont a me dire, pour mieux comprendre et pouvoir agir sur mes propres comportements.
 
 
