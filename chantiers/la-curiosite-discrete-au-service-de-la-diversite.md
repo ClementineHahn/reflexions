@@ -21,21 +21,21 @@ Je ne connais pour ainsi dire pas de personnes transgenres. J'ajouterais aussi q
 
 Trop peu de diversité dans mon entourage fait que la différence est marquante quand elle se présente. 
 
-Et autant je suis OK avec le sentiment de curiosité, autant ce qu'il a tendance à m'inciter à faire m'exaspère : poser des questions, regarder de façon insistante, dévisager, sourir, me crisper...
+Autant je suis OK avec le sentiment de curiosité suscité par l'inconnu ou le peu connu, autant ce qu'il a tendance à m'inciter à faire m'exaspère : poser des questions, regarder de façon insistante, dévisager, sourir, me crisper, éviter...
 
-Imaginez que ce constat s'opère aussi pour les personnes handicapées, queer, homoparentales...
+Ce constat s'opère aussi pour les personnes handicapées, queer, homoparentales...
 
 ## Du contenu généreux et consenti
 
-En creusant un peu sur internet, j'ai découvert que de nombreuses personnes "minorisées" produisaient chaque jour, du contenu généreux et consenti dans lequel elles racontent gracieusement qui elles sont et ce qu'elles vivent.  
+J'ai creusé sur internet et j'ai découvert que de nombreuses personnes "minorisées" produisent chaque jour, du contenu généreux et consenti dans lequel elles racontent gracieusement qui elles sont et ce qu'elles vivent.  
 
-> "Je m'appelle Margot et je suis atteinte d'une maladie du tissu conjonctif, le syndrome d'Ehlers Danlos. Ces vidéos me permettent de parler de mon quotidien, dédramatiser la maladie et ouvrir les gens à la différence." (extrait de la présentation de la chaîne Youtube de Margot)
+> "Je m'appelle Margot et je suis atteinte d'une maladie du tissu conjonctif, le syndrome d'Ehlers Danlos. Ces vidéos me permettent de parler de mon quotidien, dédramatiser la maladie et ouvrir les gens à la différence." (Extrait de la présentation de la chaîne Youtube de Margot)
 
-Grâce à elles, je peux désormais à la fois nourrir ma curiosité (discrètement et sans importuner personne) et me relier à pluralité des individus.
+Grâce à leur travail, je peux désormais à la fois nourrir sans contrainte ma curiosité et mon besoin de compréhension (discrètement et sans importuner personne) et me relier à pluralité des individus.
 
 ## Toucher du doigt la diversité
 
-Leur travail m'apporte beaucoup plus que des réponses à mes questions. 
+Mais toute cette matière m'apporte beaucoup plus que des réponses à mes questions. 
 
 **La diversité intègre peu à peu mon quotidien**  
 Je suis de moins en moins interpellée face à la différence. Je ne suis plus étonnée et la curiosité se transforme peu à peu en intérêt et envie d'apprendre et de connaître pour participer peu à peu à plus de diversité
@@ -46,6 +46,6 @@ Je prends la mesure des difficultés que les personnes transgenre, hanidcapées,
 **La prise de conscience de mes privilèges**  
 Je cerne un peu mieux mes biais. Je prends la mesure de mes privilèges et je tente d'abaisser ma posture. Je ressens l'élan de parler moins et d'écouter plus pour tenter (à ma mesure et en restant à ma place) à minima de participer le moins possible à créer des situation d'oppression et à maxima de contribuer concrètement à plus d'inclusivité et de diversité.
 
-
+*PS : Je crois savoir le travail que nécessite la création de toute cette matière, aussi merci de consacrer du temps pour ça. Je souhaite vivement que vous gardiez l'élan de continuer à faire bouger les lignes et nous aider à être/devenir de meilleur·e·s allié·e·s.* 
 
 
