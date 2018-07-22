@@ -1,6 +1,8 @@
 # Parler de sexisme avec un homme... 
 
-## C'est difficile 
+[parler de sexisme avec un homme](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/parler-de-sexisme-avec-un-homme.png)
+
+## Pourquoi c'est difficile
 
 J'observe que dans la plupart des temps, lorsque je raconte à un homme les expériences oppressives que je vis en tant que femme (ou que d'autres femmes me partagent), l'échange est compliqué, grinçant. 
 
@@ -9,7 +11,6 @@ Souvent, j'ai peu d'écoute et je reçois peu d'empthie. Très vite, la discussi
 > "Tu généralises. Tous les hommes ne sont pas comme ça. Je ne suis pas comme ça."  
 > "Les hommes aussi vivent de l'oppression, qu'est-ce que tu crois... Le dictat de la masculinité on en parle ?"  
 > "Ca ne me plaît pas que tu dises ça, moi je fais beaucoup d'effort, je suis féministe moi !"  
-
 
 C'est comme s'il m'était quasiment impossible de partager mes expériences et mes opinions qui en découlent sans que mon interlocuteur, ne le prenne contre lui. 
 
