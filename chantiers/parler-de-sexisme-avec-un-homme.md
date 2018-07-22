@@ -32,7 +32,7 @@ Du coup je navigue en eaux troubles et j'expérimente diverses stratégies :
 
 **La fuite**. Lorsque je suis face à quelqu'un que je ne sens pas en mesure d'entendre (agacé, radical, distrait, coupe la parole, parle fort...) ou qui tient des propos trop limites à mon goût (blagues sexistes, sarcasme, jugement sur le féminisme...), je m'en vais, je quitte le cercle, la table, le groupe. L'avantage de cette stratégie est qu'elle me préserve systématiquement. Malheureusement, pour peu que la personne ne remarque pas mon départ, ça ne fera pas avancer le shmilblick...
 
-## Ce que j'aimerai pouvoir dire aux hommes* *(Mais que je me permet rarement, car souvent ça les "active" beaucoup trop...)
+## Ce que j'aimerai pouvoir dire aux hommes* *(Mais que je me permet rarement, car souvent ça les "active" beaucoup trop...)*
 
 *"En tant qu'homme blanc, hétéro, cis-genre tu es en haut de la pyramide. Tu es un privilégié. C'est comme ça, on y peut rien."  
 "Même sans le vouloir, tu es sexiste."  
@@ -41,7 +41,7 @@ Du coup je navigue en eaux troubles et j'expérimente diverses stratégies :
 "Ce n'est pas de toi que je suis en train de parler, alors s'il te plaît, laisse moi finir, écoute et poses-moi plutôt des questions."  
 "Arrête de te sentir attaqué et écoute ce que j'ai à te raconter."  
 "Tu as beaucoup à apprendre de cette discussion."  
-"Tu veux répondre ? OK, mais parle moi uniquement des sentiments que ça te fais vivre. Là tout de suite, ton opinion n'a pas sa place."
+"Tu veux répondre ? OK, mais parle moi uniquement des sentiments que ça te fais vivre. Là tout de suite, ton opinion n'a pas sa place."*
 
 ## Mes meilleurs souvenirs
 
@@ -58,10 +58,4 @@ Je suppose que ça permettrait à la fois d'expliquer, à ceux que ça intéress
 Aussi n'hésitez pas à me faire signe, ça me fera plaisir de vous lire !  
 julia.barbelane@gmail.com
 
-
-
-
-
-
-
-
+*Evidemment ce partage est en grande partie le fruit de nombreux échanges et diverses expériences avec des amies. Un grand merci à Noémie et toutes les autres qui ont croisé ma route, ma souris ou mon clavier ! Je ressens aussi beaucoup de gratitude pour ces alliés qui se bougent pour que ça change.*
