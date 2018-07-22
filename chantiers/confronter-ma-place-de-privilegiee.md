@@ -1,4 +1,4 @@
-# Comment j'ai décidé de confronter mon statut de privilégiée
+# Me confronter mon statut de privilégiée
 ![vue sur la ville](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/confronter-mon-statut-de-privilegiee.png)
 
 ## Marre de l'entre-soi
@@ -23,14 +23,14 @@ En faisant ce constat, je me suis sentie un peu gênée. Cet entre soi se met pa
 Ben oui, je fais partie de celeux qui sont majoritairement représenté·e·s dans la société. Je fais partie du haut de la pyramide sociétale. Autrement dit je fais partie des privilégié·e·s. 
 
 ## Etre vigilente sur ma posture oppressive implicite
-Qui dit privilégiée dit aussi potentiellement oppresseuse de celeux qui ne le sont pas. Autrement dit potentiellement oppresseuse de celeux qui sont "en dessous" dans la pyramide. Autrement dit de celeux qui sont "sous-représenté·e·s" dans la société. 
+Qui dit privilégiée dit aussi oppresseuse de celeux qui ne le sont pas. Autrement dit oppresseuse de celeux qui sont "en dessous" dans la pyramide. Autrement dit de celeux qui sont "sous-représenté·e·s" dans la société. 
 
 Que faire pour pallier à ça ? 
 
 ## Le parallèle avec le fait d'être une femme
-A priori le fait que je sois une femme est une des rares "variables" qui fait de moi quelqu'une d'un peu moins privilégiée.   
-La bonne nouvelle avec ça c'est que je sais ce que ça fait. C'est plus facile d'être en empathie avec celeux qui sont situé·e·s plus bas dans la pyramide...
-Aussi je m'appuie sur cette expérience pour réfléchir à comment intéragir/me positionner...
+A priori le fait que je sois une femme est une des rares "variables" qui fait de moi quelqu'une d'un peu moins privilégiée. La bonne nouvelle avec ça c'est que je sais ce que ça fait.
+
+Aussi j'ai décidé de m'appuyer sur [ma propre expérience](https://julia-barbelane.github.io/reflexions/chantiers/parler-de-sexisme-avec-un-homme.html) pour réfléchir à comment intéragir et me positionner.
 
 ## Tenter le pari de l'humilité pour rabaisser ma posture
 
