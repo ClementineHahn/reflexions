@@ -5,7 +5,7 @@
 
 ## Avant-propos - l'autre n'est pas là pour m'éduquer
 
-Margot créatrice de la chaîne Youtube [Vivre Avec](https://www.youtube.com/channel/UCH3Hp3WAm0iGQBi_csusoUg) a récemment très bien expliqué cette idée.
+Margot, créatrice de la chaîne Youtube [Vivre Avec](https://www.youtube.com/channel/UCH3Hp3WAm0iGQBi_csusoUg) a récemment très bien expliqué cette idée.
 
 Elle a partagé un tweet qui disait : 
 
