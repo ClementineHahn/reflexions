@@ -1,4 +1,4 @@
-# Me confronter mon statut de privilégiée
+# Confronter mon statut de privilégiée
 ![vue sur la ville](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/confronter-mon-statut-de-privilegiee.png)
 
 ## Marre de l'entre-soi
