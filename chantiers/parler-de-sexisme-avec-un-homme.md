@@ -1,6 +1,6 @@
 # Parler de sexisme avec un homme... 
 
-[parler de sexisme avec un homme](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/parler-de-sexisme-avec-un-homme.png)
+![parler de sexisme avec un homme](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/parler-de-sexisme-avec-un-homme.png)
 
 ## Pourquoi c'est difficile
 
