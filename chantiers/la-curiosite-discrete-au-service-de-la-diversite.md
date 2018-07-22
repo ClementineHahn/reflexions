@@ -1,5 +1,5 @@
 # La curiosité discrète au service de la diversité 
-**Ou comment suivre des comptes Twitter et Youtube de personnes transgenres, homosexu·el·le·s, handicapé·e·s... m'aide à abaisser ma posture et accueillir la diversité.**
+**Ou comment suivre des comptes Twitter et Youtube de personnes transgenres, homosexuelles, handicapées... m'aide à abaisser ma posture et accueillir la diversité.**
 
 ![diversité des tronches](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/la-curioste-discrete.png)
 
