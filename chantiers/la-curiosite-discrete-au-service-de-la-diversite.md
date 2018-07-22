@@ -5,16 +5,17 @@
 
 ## Avant-propos - l'autre n'est pas là pour m'éduquer
 
-C'est via le travail de Margot de la chaîne Youtube [Vivre Avec](https://www.youtube.com/channel/UCH3Hp3WAm0iGQBi_csusoUg) que je vraiment compris ce que ça voulait dire.
+Margot créatrice de la chaîne Youtube [Vivre Avec](https://www.youtube.com/channel/UCH3Hp3WAm0iGQBi_csusoUg) a récemment très bien expliqué cette idée. 
 
 Elle a partagé un tweet qui disait : 
 
 > Quand est-ce que "rendez la parole aux concerné·e·s" s'est transformé en "si vous avez un doute n'allez surtout pas chercher la réponse vous même et allez plutôt faire chier un·e concerné·e avec vos questions."
 
 Et elle a ajouté : 
-> Je ne sais pas si vous vous rendez compte de l'immensité de boulot gratuit que les personnes minorisées font sans arrêt. Perso j'en ai à peine pris conscience et j'essaie activement de le réduire, ça a un impact sur ma santé sans même me permettre de payer mes factures. Quand on me poke sur twitter pour avoir mon avis sur un cas, qu'on m'envoie un message pour que je fasse une étude sur telle ouvrage ou film problématique (...) c'est soit passer du temps à travailler à la place de personnes qui auraient pu faire leurs recherches et réfléchir par elles-mêmes, ou me concentrer sur du travail qui m'aidera personnellement ou paiera les factures. (...). [Le tweet en entier par ici !](https://twitter.com/VivreAvec_/status/1020788667109998592)
+> Je ne sais pas si vous vous rendez compte de l'immensité de boulot gratuit que les personnes minorisées font sans arrêt. Perso j'en ai à peine pris conscience et j'essaie activement de le réduire, ça a un impact sur ma santé sans même me permettre de payer mes factures. Quand on me poke sur twitter pour avoir mon avis sur un cas, qu'on m'envoie un message pour que je fasse une étude sur telle ouvrage ou film problématique (...) c'est soit passer du temps à travailler à la place de personnes qui auraient pu faire leurs recherches et réfléchir par elles-mêmes, ou me concentrer sur du travail qui m'aidera personnellement ou paiera les factures. (...).  
+[Le tweet en entier par ici](https://twitter.com/VivreAvec_/status/1020788667109998592)
 
-## Ne pas importuner l'inconnu : l'exemple avec la transidentité
+## Importuner l'inconnu : l'exemple avec la transidentité
 
 Je ne connais pour ainsi dire pas de personnes transgenres. J'ajouterai aussi que j'en croise rarement. Mais lorsque j'en croise, systématiquement je me sens curieuse. Je suis intiguée. 
 
@@ -22,13 +23,12 @@ Trop peu de diversité dans mon entourage fait que la différence est marquante 
 
 Et autant je suis OK avec le sentiment de curiosité, autant ce qu'il a tendance à m'inciter à faire m'exaspère : poser des questions, regarder de façon insistante, dévisager, sourir, me crisper...
 
-## M'appuyer sur du contenu généreux et consenti
 
-En creusant un peu sur internet, j'ai découvert que de nombreuses personnes produisaient chaque jour, du contenu généreux et consenti dans lequelle elles racontent gracieusement qui elles sont et ce qu'elles vivent.  
+## Du contenu généreux et consenti
 
-Grâce à elles, je peux désormais à la fois nourrir ma curiosité (ceci discrètement et sans importuner personne) et me relier à la pluralité des individus.
+En creusant un peu sur internet, j'ai découvert que de nombreuses personnes "minorisées" produisaient chaque jour, du contenu généreux et consenti dans lequel elles racontent gracieusement qui elles sont et ce qu'elles vivent.  Grâce à elles, je peux désormais nourrir ma curiosité discrètement, sans importuner personne.
 
-## Toucher du doigt la diversité
+## Un nouveau regard sur le monde
 
 Leur travail m'apporte beaucoup plus que des réponses à mes questions. 
 
