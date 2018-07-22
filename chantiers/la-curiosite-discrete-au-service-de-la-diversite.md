@@ -1,5 +1,7 @@
 # La curiosité discrète au service de la diversité 
-**Ou comment suivre des comptes Twitter et Youtube de personnes transgenres, homosexu·el·le·s, handicapé·e·s... m'aide à abaisser ma posture.**
+**Ou comment suivre des comptes Twitter et Youtube de personnes transgenres, homosexu·el·le·s, handicapé·e·s... m'aide à abaisser ma posture et accueillir la diversité.**
+
+![diversité des tronches](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/la-curioste-discrete.png)
 
 ## Avant-propos - l'autre n'est pas là pour m'éduquer
 
@@ -10,7 +12,7 @@ Elle a partagé un tweet qui disait :
 > Quand est-ce que "rendez la parole aux concerné·e·s" s'est transformé en "si vous avez un doute n'allez surtout pas chercher la réponse vous même et allez plutôt faire chier un·e concerné·e avec vos questions."
 
 Et elle a ajouté : 
-> Je ne sais pas si vous vous rendez compte de l'immensité de boulot gratuit que les personnes minorisées font sans arrêt. Perso j'en ai à peine pris conscience et j'essaie activement de le réduire, ça a un impact sur ma santé sans même me permettre de payer mes factures. Quand on me poke sur twitter pour avoir mon avis sur un cas, qu'on m'envoie un message pour que je fasse une étude sur telle ouvrage ou film problématique (...) c'est soit passer du temps à travailler à la place de personnes qui auraient pu faire leurs recherches et réfléchir par elles-mêmes, ou me concentrer sur du travail qui m'aidera personnellement ou paiera les factures. (...). (https://twitter.com/VivreAvec_/status/1020788667109998592)
+> Je ne sais pas si vous vous rendez compte de l'immensité de boulot gratuit que les personnes minorisées font sans arrêt. Perso j'en ai à peine pris conscience et j'essaie activement de le réduire, ça a un impact sur ma santé sans même me permettre de payer mes factures. Quand on me poke sur twitter pour avoir mon avis sur un cas, qu'on m'envoie un message pour que je fasse une étude sur telle ouvrage ou film problématique (...) c'est soit passer du temps à travailler à la place de personnes qui auraient pu faire leurs recherches et réfléchir par elles-mêmes, ou me concentrer sur du travail qui m'aidera personnellement ou paiera les factures. (...). [Le tweet en entier par ici !](https://twitter.com/VivreAvec_/status/1020788667109998592)
 
 ## Importuner l'inconnu : l'exemple avec la transidentité
 
