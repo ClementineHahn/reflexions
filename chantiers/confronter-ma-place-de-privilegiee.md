@@ -20,7 +20,7 @@ En faisant ce constat, je me suis sentie un peu gênée. Cet entre soi se met pa
 - plus d'humilité
 
 ## J'ai le privilège d'être en haut de la pyramide
-Ben oui, je fais partie de celeux qui sont majoritairement représenté·e·s dans la société. Je fais partie du haut de la pyramide sociétale. Autrement dit je fais partie des privilégié·e·s. 
+Ben oui, en tant que femme française, blanche, cis-genre... je fais partie de celeux qui sont majoritairement représenté·e·s dans la société. Je fais partie du haut de la pyramide sociétale. Autrement dit je fais partie des privilégié·e·s. 
 
 ## Etre vigilente sur ma posture oppressive implicite
 Qui dit privilégiée dit aussi oppresseuse de celeux qui ne le sont pas. Autrement dit oppresseuse de celeux qui sont "en dessous" dans la pyramide. Autrement dit de celeux qui sont "sous-représenté·e·s" dans la société. 
