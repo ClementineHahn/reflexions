@@ -46,6 +46,6 @@ Je prends la mesure des difficultés que les personnes transgenre, hanidcapées,
 **La prise de conscience de mes privilèges**  
 Je cerne un peu mieux mes biais. Je prends la mesure de mes privilèges et je tente d'abaisser ma posture. Je ressens l'élan de parler moins et d'écouter plus pour tenter (à ma mesure et en restant à ma place) à minima de participer le moins possible à créer des situation d'oppression et à maxima de contribuer concrètement à plus d'inclusivité et de diversité.
 
-*PS : Je crois savoir le travail que nécessite la création de toute cette matière, aussi merci de consacrer du temps pour ça. Je souhaite vivement que vous gardiez l'élan de continuer à faire bouger les lignes et nous aider à être/devenir de meilleur·e·s allié·e·s.* 
+*PS : Je crois pouvoir prendre la mesure du travail que nécessite la création de toute cette matière (vidéo, articles, tweet), aussi merci de consacrer du temps pour ça. Je souhaite vivement que vous gardiez l'élan de continuer à faire bouger les lignes et nous aider à être/devenir de meilleur·e·s allié·e·s.* 
 
 
