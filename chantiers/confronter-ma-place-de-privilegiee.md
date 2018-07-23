@@ -28,16 +28,19 @@ Qui dit privilégiée dit aussi oppresseuse de celeux qui ne le sont pas. Autrem
 Que faire pour pallier à ça ? 
 
 ## Le parallèle avec le fait d'être une femme
-A priori le fait que je sois une femme est une des rares "variables" qui fait de moi quelqu'une d'un peu moins privilégiée. La bonne nouvelle avec ça c'est que je sais ce que ça fait.
+A priori le fait que je sois une femme est une des rares "variables" qui fait de moi quelqu'une d'un peu moins privilégiée. 
+
+Parceque je suis une femme je vis des situations d'oppression. Je sais ce que ça fait.
 
 Aussi j'ai décidé de m'appuyer sur [ma propre expérience](https://julia-barbelane.github.io/reflexions/chantiers/parler-de-sexisme-avec-un-homme.html) pour réfléchir à comment intéragir et me positionner.
 
 ## Tenter le pari de l'humilité pour rabaisser ma posture
 
-Résultats après ces prémices de réflexions, j'ai décidé de :
+Ces premières réflexions, m'ont permis d'ajuster ma posture vis-à-vis des personnes "minorisées". Désormais j'ai décidé de :
+
 - me taire et écouter quand j'échange avec celeux qui ne sont pas, comme moi "en haut de la pyramide"
 - faire taire cette première petite voix qui souvent me crie "*Non mais n'importe quoi, je suis pas comme ça moi, ille généralise*" 
 - observer mes propres préjugés (jugements, regards, pensées...)
 - suivre des comptes Twitter de personnes trans, homo, handicapées... pour que la diversité intègre petit à petit mon quotidien et entendre ce qu'elles ont a me dire, pour mieux comprendre et pouvoir agir sur mes propres comportements.
 
-
+Les premiers changements se font déjà sentir et c'est plutôt chouette.
