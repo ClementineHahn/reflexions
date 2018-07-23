@@ -32,7 +32,7 @@ A priori le fait que je sois une femme est une des rares "variables" qui fait de
 
 Parceque je suis une femme je vis des situations d'oppression. Je sais ce que ça fait.
 
-Aussi j'ai décidé de m'appuyer sur [ma propre expérience](https://julia-barbelane.github.io/reflexions/chantiers/parler-de-sexisme-avec-un-homme.html) pour réfléchir à comment intéragir et me positionner.
+Aussi j'ai décidé de m'appuyer sur [ma propre expérience en tant que femme](https://julia-barbelane.github.io/reflexions/chantiers/parler-de-sexisme-avec-un-homme.html) pour réfléchir à comment intéragir et me positionner.
 
 ## Tenter le pari de l'humilité pour rabaisser ma posture
 
