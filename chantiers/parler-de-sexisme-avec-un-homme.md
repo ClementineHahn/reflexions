@@ -40,7 +40,7 @@ Lorsque je suis face à quelqu'un que je ne sens pas en mesure d'entendre (agac�
 *(Mais que je me permets rarement, car souvent ça les "active" beaucoup trop...)*
 
 - "En tant qu'homme blanc, hétéro, cis-genre tu es en haut de la pyramide. Tu es un privilégié. C'est comme ça, on y peut rien."  
-- "Même sans le vouloir, tu es sexiste."  
+- "Même sans le vouloir, tu as des comportements sexistes."  
 - "Pourquoi ne pas déségo-centrer le débat, prendre le temps d'accueillir ton statut de privilégié et tenter de faire preuve d'un peu plus d'humilité pendant cette discussion ?"
 - "Tu ne peux pas comprendre tout à fait ce que je vis puisque tu n'es pas une femme."  
 - "Ce n'est pas de toi que je suis en train de parler, alors s'il-te-plaît, laisse-moi finir, écoute et pose-moi plutôt des questions."  
