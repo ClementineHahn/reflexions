@@ -27,17 +27,17 @@ Grrr. Dur tiraillement qui reste encore aujourd'hui sans solution satisfaisante�
 Du coup je navigue en eaux troubles et j'expérimente diverses stratégies :
 
 **Le parti pris de la radicalité**  
-Je me dit que le sujet de l'oppression des femmes est encore trop fragile pour que je l'aborde avec nuances. Le nuancer c'est perdre en défense. Malheureusement, cette posture est souvent vécue comme violente par certains interlocuteurs. Il deviennent imperméables sur le moment et même si parfois "ruer dans les brancards" permet de provoquer des "déclics", ça peut potentiellement créer beaucoup de souffrances et discréditer ce que je souhaite défendre.
+Je me dis que le sujet de l'oppression des femmes est encore trop fragile pour que je l'aborde avec nuances. Le nuancer c'est perdre en défense. Malheureusement, cette posture est souvent vécue comme violente par certains interlocuteurs. Ils deviennent imperméables sur le moment et même si parfois "ruer dans les brancards" permet de provoquer des "déclics", ça peut potentiellement créer beaucoup de souffrances et discréditer ce que je souhaite défendre.
 
 **Le dialogue, l'écoute et l'empathie**  
-Avec ça, je peux défendre ce qui m'est cher en créant un minimum de souffrance. Ca me permet de rester en lien avec mon interlocuteur pour qu'il reste perméable à ce que je tente de lui partager. Malheureusement, cette posture recrée très souvent un déséquilibre dans le dialogue : je bascule en posture d'écoutante pendant que mon interlocuteur me raconte ses propres difficultés, et je réussi rarement à obtenir une qualité d'écoute équivalente… 
+Avec ça, je peux défendre ce qui m'est cher en créant un minimum de souffrance. Ca me permet de rester en lien avec mon interlocuteur pour qu'il reste perméable à ce que je tente de lui partager. Malheureusement, cette posture recrée très souvent un déséquilibre dans le dialogue : je bascule en posture d'écoutante pendant que mon interlocuteur me raconte ses propres difficultés et je réussi rarement à obtenir une qualité d'écoute équivalente... 
 
 **La fuite**  
-Lorsque je suis face à quelqu'un que je ne sens pas en mesure d'entendre (agacé, radical, distrait, coupe la parole, parle fort…) ou qui tient des propos trop limites à mon goût (blagues sexistes, sarcasme, jugement sur le féminisme…), je m'en vais, je quitte le cercle, la table, le groupe. L'avantage de cette stratégie est qu'elle me préserve systématiquement. Malheureusement, pour peu que la personne ne remarque pas mon départ, ça ne fera pas avancer le schmilblick…
+Lorsque je suis face à quelqu'un que je ne sens pas en mesure d'entendre (agacé, radical, distrait, coupe la parole, parle fort...) ou qui tient des propos trop limites à mon goût (blagues sexistes, sarcasmes, jugements sur le féminisme...), je m'en vais, je quitte le cercle, la table, le groupe. L'avantage de cette stratégie est qu'elle me préserve systématiquement. Malheureusement, pour peu que la personne ne remarque pas mon départ, ça ne fera pas avancer le shmilblick...
 
 ## Ce que j'aimerai pouvoir dire aux hommes* 
 
-*(Mais que je me permet rarement, car souvent ça les "active" beaucoup trop…)*
+*(Mais que je me permets rarement, car souvent ça les "active" beaucoup trop...)*
 
 - "En tant qu'homme blanc, hétéro, cis-genre tu es en haut de la pyramide. Tu es un privilégié. C'est comme ça, on y peut rien."  
 - "Même sans le vouloir, tu es sexiste."  
@@ -52,17 +52,17 @@ Lorsque je suis face à quelqu'un que je ne sens pas en mesure d'entendre (agac�
 
 Les discussions que j'ai préféré, sont celles dans lesquelles mes interlocuteurs m'écoutaient vraiment. Il ne cherchaient ni à me convaincre, ni à se défendre mais plutôt à me comprendre. À comprendre ce qu'il se passait pour moi. Il parsemaient leurs phrases de reformulations. Mes sentiments étaient entendus, reconnus. Ils compatissaient sans me placer en victime. Leurs regards étaient francs mais sans défiance, leur énergie basse mais connectée, leur voix posée.
 
-On laissait leur place aux silences. 
+On laissait leurs places aux silences. 
 
 Et ils posaient des questions. 
 
-> "Comment tu t'es senti ?"  
+> "Comment tu t'es sentie ?"  
 > "Comment tu aurais aimé que ça se passe ?"  
 > "À ton avis qu'est-ce que je pourrais faire, en tant qu'homme, pour éviter de participer à ce genre de choses ?"  
 
 ## À vous mesdames !
 
-Je serai heureuse que ce billet puisse donner l'élan à d'autres femmes, de partager aussi leurs ressentis et leurs expériences. 
+Je serais heureuse que ce billet puisse donner l'élan à d'autres femmes, de partager aussi leurs ressentis et leurs expériences. 
 
 Je suppose que ça permettrait à la fois :
 - d'expliquer, à ceux que ça intéresse, ce qui se passe pour nous avec ces questions là
@@ -70,6 +70,7 @@ Je suppose que ça permettrait à la fois :
 - de créer un nouvel espace dans lequel on peut poser ce qu'on se retient parfois de dire
 - de proposer quelques piste à ceux qui souhaitent mieux nous écouter…
 
-Aussi n'hésitez pas à me faire signe, ça me fera plaisir de vous lire !  Vous pouvez m'envoyer un mail à julia.barbelane@gmail.com.
+Aussi n'hésitez pas à me faire signe, ça me fera plaisir de vous lire ! Vous pouvez m'envoyer un mail à julia.barbelane@gmail.com.
 
 *Évidemment ce partage est en grande partie le fruit de nombreux échanges et diverses expériences avec des amies. Un grand merci à Noémie et toutes les autres qui ont croisé ma route, ma souris ou mon clavier ! Je ressens aussi beaucoup de gratitude pour ces hommes alliés qui se bougent pour que ça change.*
+
