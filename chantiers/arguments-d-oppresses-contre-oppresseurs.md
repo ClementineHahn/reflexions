@@ -1,10 +1,6 @@
 # En chantier - argument d'oppressé·e·s contre les oppress·eur·euse·s
 
-## Divers comptes suivis
-- Tibobon : https://twitter.com/napilicaio
-- Margot, Vivre avec : https://twitter.com/VivreAvec_
-- Chlo-N : https://twitter.com/neiiko__o
-
+![arguments](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/argument-oppresses-vs-oppresseurs.png)
 
 ## On est pas là pour vous éduquer
 
@@ -24,6 +20,10 @@
 
 > Quand j'ai commencé à utiliser des attelles pour pouvoir marcher plus longtemps et pour avoir moins mal, j'ai des soignants qui m'ont dit qu'il ne fallait pas que je les utilise trop, et qu'il ne fallait pas que je les mette tous les jours, même si ça m'aidait, parceque ça voulait dire ensuite que j'allais dépendre de ces attelles. Sauf que la réalité de cette façon de faire pour moi au quotidien, ça veut dire "fait moins de choses, ais d'avantage de douleurs, comme ça ça voudra peut-être dire que tu dépendras moins vite des attelles. Pour moi dans mon quotidien, c'est pas quelque chose d'horrible, c'est pas un tort de dépendre de ces attelles. C'est un outil nécessaire pour que je fasse les choses que je souhaite.[La vidéo complète de Margot : "je ne veux pas devenir valide (et ça n'est pas grave)"](https://www.youtube.com/watch?v=b1DjcOmnq6Y&t=13s)
 
-
 ## Arrêtez de recentrer le débat sur vous 
 
+
+## Les créat·eur·rice·s de contenu que je suis
+- Tibobon : https://twitter.com/napilicaio
+- Margot, Vivre avec : https://twitter.com/VivreAvec_
+- Chlo-N : https://twitter.com/neiiko__o
