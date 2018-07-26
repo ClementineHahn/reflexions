@@ -72,7 +72,7 @@ Je suppose que ça permettrait à la fois :
 
 Aussi n'hésitez pas à me faire signe, ça me fera plaisir de vous lire ! Vous pouvez m'envoyer un mail à julia.barbelane@gmail.com.
 
-*Évidemment ce partage est en grande partie le fruit de nombreux échanges et diverses expériences avec des amies. Un grand merci à Noémie et toutes les autres qui ont croisé ma route, ma souris ou mon clavier ! Je ressens aussi beaucoup de gratitude pour ces hommes alliés qui se bougent pour que ça change.*
+*Évidemment ce partage est en grande partie le fruit de nombreux échanges et diverses expériences avec des amies. Un grand merci à [Noémie](https://noemiegirard.co/) et toutes les autres qui ont croisé ma route, ma souris ou mon clavier ! Je ressens aussi beaucoup de gratitude pour ces hommes alliés qui se bougent pour que ça change.*
 
 ## Ressources diverses
 [Vidéo - Les féministes fermées au dialogues ?](https://www.youtube.com/watch?v=v0UDLi6XYhw) : la Youtubeuse Ginger Force raconte pourquoi elle a décidé de ne plus être une féministe modérée et pourquoi elle a décidé d'arrêter de discuter avec diplomatie et ouverture.  
