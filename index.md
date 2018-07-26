@@ -30,6 +30,7 @@ title : ""
 [Confronter mon statut de privilégiée](chantiers/confronter-ma-place-de-privilegiee.md)  
 [Parler de sexisme avec un homme](chantiers/parler-de-sexisme-avec-un-homme.md)  
 [La curiosité discrète au service de la biodiversité](chantiers/la-curiosite-discrete-au-service-de-la-diversite.md)
+[Le privilège d'être blanc·he·s - ressources diverses](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/ressources-privilege-blanc.md)
 
 ### Apprentissage
 [Etre précis·e·s dans l'utilisation de nouveaux outils](chantiers/etre-precis-dans-l-utilisation-de-nos-outils-collaboratifs.md)  
