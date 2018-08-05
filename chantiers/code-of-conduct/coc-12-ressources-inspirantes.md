@@ -14,6 +14,7 @@
 - [Code of Conduct de 18F (USA)](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md)  
 - [confcodeofconduct.com](http://confcodeofconduct.com/)
 - [FFS Tech Conférence](https://docs.google.com/document/d/e/2PACX-1vSiqCZpBdx028N3rQ7QO1LfQGGp31IEPVQjXKSuAdBd2CXPV8YQtd2Mm2Fwc6iQLQQLzVffijI25Pfg/pub)
+- [Code de conduite de Distributed Proofreaders](https://www.pgdp.net/wiki/DP_Official_Documentation:General/French/Code_de_Conduite) 
 
 
 [Ici](https://github.com/Rookie-Club/katas/community), Github propose des trucs à faire pour bien fonctionner avec les contribut·eur·rice·s d'un répertoire. Dans le tas, il propose notamment de créer un Code of Conduct. On y trouve : 
