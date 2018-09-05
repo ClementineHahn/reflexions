@@ -2,14 +2,14 @@
 
 # Me cadrer dans mes vidéos sans passer pour un clown
 
-*La bonne nouvelle c’est que (contrairement à la configuration audio — lire l’article) il existe des solutions “pré-mâchées” pour faire en sorte que son cadrage (c’est à dire, là où je met dans les limites du viseur de ma caméra) soit à la fois simple et propre.*
+*La bonne nouvelle c’est que (contrairement à la configuration audio — [lire l’article](https://julia-barbelane.github.io/reflexions/chantiers/quelle-fichue-configuration-audio-pour-mes-videos.html))- il existe des solutions “pré-mâchées” pour faire en sorte que son cadrage (c’est à dire, là où je met dans les limites du viseur de ma caméra) soit à la fois simple et propre.*
 
 ![clown](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/me-cadrer-dans-mes-videos-sans-passer-pour-un-clown/clown.jpeg)
 
 ## Place ta caméra à hauteur de regard
 Pas besoin de faire l’apologie de ton double menton ! N’hésites pas à surélever ta caméra pour faire en sorte que l’objectif soit positionné à la même hauteur que ton regard.  
 
-![3 exemples de cadrages](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/me-cadrer-dans-mes-videos-sans-passer-pour-un-clown/placer-la-camera-a-hauteur-de-regard.png
+![3 exemples de cadrages](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/me-cadrer-dans-mes-videos-sans-passer-pour-un-clown/placer-la-camera-a-hauteur-de-regard.png)
 
 NB : bien sûr avec une intention particulière, tu peux choisir de placer la caméra autrement, mais soit peut-être vigilent au sens que ça a et à comment ce choix se met au service de ton intention.  
 
@@ -18,8 +18,9 @@ Le haut de ton image doit presque toucher le haut de ton crâne au lieu de coupe
 
 ![la hauteur de cadre](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/me-cadrer-dans-mes-videos-sans-passer-pour-un-clown/hauteur-de-cadre.png)
 
-## Visualise un “grille invisible” pour savoir où te placer dans le cadre
-Imagine qu’il y a une grille par dessus ton image. Tu peux te placer au centre, sur le ligne 1 ou sur la ligne 2 . Dans tous les cas fais en sorte que ton nez soit sur une des intersections de la ligne la plus haute.  
+## Visualise un “grille invisible” pour repérer les "points de force" de ton images et comment cadrer
+Imagine qu’il y a une grille par dessus ton image. ** Pour cadrer, appuies-toi que les ligne 1 et 2 et les points d'intersection** qui sont les points de forces qui aident à réussir un cadrage. 
+Pour une interview ou lorsque tu te filmes seul·e, positionnes-toi comme sur l'exemple ci-dessous, sur la ligne 1 ou 2 ou encore au centre.
 
 ![imagine une grille invisible](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/me-cadrer-dans-mes-videos-sans-passer-pour-un-clown/la-grille-invisible.png)
 

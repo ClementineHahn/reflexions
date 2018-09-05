@@ -12,4 +12,5 @@
 - Si quelqu’un me fait remarquer que j’ai eu un comportement opressif ? Ben c’est pas la mort. Proposer plus de voir ça comme une occasion de progresser et de prendre plus soin qu’une attaque personnelle.
 - Si je dois faire remarquer à quelqu’un qu’il a eu un comportement opressif ? être vigilant à la façon dont on fait remarquer. (expliquer comment ? )
 - Editer une checklist des points importants à vérifier pour veiller à la "bonne application" d'un CoC ? ( Diversité de "l'équipe de réponse"...)
+- Editer une checklist "ce qui a été mis en place pour que le CoC soit le plus sécurisant possible" à destination des participant·e·s au moment de l'inscription. L'idée : permettre à où chaque point du CoC est un "Ça me rassure / ça me met pas à l'aise [Pourquoi _]".
 
