@@ -1,5 +1,16 @@
 # L'innocence des femmes blanches, l'oppression et une canette de Pepsi
 Tentative de traduction de [l'article "White women’s innocence, oppression and a can of Pepsi"](https://racereflections.co.uk/2017/04/08/white-womens-innocence-oppression-and-a-can-of-pepsi/) du blog Race Reflexion
 
-Capitalisme et "white saviourism*" ou "sauvetage blanc"
-* 
+Capitalisme et white saviourism (ou [complexe du sauveur blanc](https://www.youtube.com/watch?v=7Of2YgOKqXY&t=628s))
+
+Kendall Jenner, le nouveau visage du "sauvetage blanc" selon Pepsi, a fait face à des critiques mondiales sur leur [nouvelle publicité](https://www.youtube.com/watch?v=dA5Yq1DLSmQ) récemment publiée (et récemment annulée). Dans la publicité, on voit la jeune femme remettre une boîte de Pepsi induisant la paix à un policier lors d'une manifestation évoquant de manière troublante la brutalité policière et, de manière plus sinistre, la brutalité policière contre les corps noirs. En fait, il est peut-être plus juste d’écrire que c’est Pepsi qui, en gros, a fait permis d'éviter des réactions violentes. Des messages de soutien pour défendre l’innocence de la star de la télé-réalité sont facilement accessibles.
+
+Pepsi, qui [n’a pas tardé à répondre](https://twitter.com/pepsi/status/849679114416115714) aux réactions négatives, reconnait "être tombé à côté de la plaque» et a retiré la vidéo après sa publication. Dans un geste plutôt néolibéral, la société a ensuite inclus Kendall dans ses excuses publiques. C'est-à-dire que la marque a présenté des excuses à la fois à celles et ceux qui ont étaient offensés [...] mais aussi à la personne qui a délivré le message [...]. Aussi, le tort subit par le personne qui a literalement véhiculé du message [...]. Imaginez. Des excuses adressées aux complices d’un «crime» et à ses victimes. Des excuses effectivement.
+
+Ce désastre de relations publiques est une opportunité parfaite pour s’arrêter et réfléchir pendant quelques instants à la construction sociale continue de la féminité blanche et à son rôle dans l’oppression des personnes de couleur différentes et de femmes de couleur. Une construction sociale que Pepsi pensait pouvoir exploiter sans conséquences. Sur le dos de la douleur des noirs. Sur le dos aussi, de tous ceux qui ont souffert de la violence et de la mort aux mains de l'Etat.
+
+Par soucis de justesse, j’ai déjà eu l’occasion d’examiner ces questions lors d'une interview télévisée sur la chaîne nationale pour savoir si je pouvais comprendre la position de Rachel Dolezal qui revendique le fait d'être noire parcequ'elle aurait été victime d’abus et maltraitance étant enfant. J'ai donc voulu saisir cette opportunité pour réfléchir à la féminité blanche et à l'impact qu'elle a eu sur ma vie. Je suis arrivé à cette conclusion. J'ai peur des femmes blanches. Là, je l'ai dit. J'ai peur des femmes blanches. Je n'ai pas peur des femmes blanches parceque je pense que ce sont des monstres ou qu'elles sont nécessairement plus dangereuses ou violentes que tout autre groupe de femmes ou d'êtres humains. Je ne le crois pas.
+
+J'ai peur des femmes blanches en tant que groupe, de ce qu'elles peuvent me faire et qu'elles s'en sorte sans problème. J'ai peur de ce que la société permet aux femmes blanches de faire aux femmes noires et aux autres femmes de couleur sans jamais être tenues responsables. Sans perdre une once de cette innocence socialement présumée, ou subir toute atteinte à la crédibilité de leurs revendications de fraternité. Et en vérité, j'ai peur parce que dans cette société patriarcale blanche, ce sont les femmes blanches qui m'ont le plus fait de mal.
+
+Un tort indiscible
